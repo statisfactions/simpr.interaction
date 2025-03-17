@@ -1,13 +1,16 @@
 Package: simpr.interaction
 Type: Package
-Title: Utility functions for regression interaction power analysis with simpr
+Title: Utility functions for simulation-based regression interaction power analysis 
 Version: 0.1.0
-Author: Ethan C. Brown
-Maintainer: Ethan C. Brown <ethancbrown@gmail.com>
-Description: Provides functions for useful for interaction power analysis via 
-  simulation, intended to be used with the simpr package.
+Authors@R: person(given = c("Ethan", "C."),
+                    family = "Brown",
+                    role = c("aut", "cre"),
+                    email = "ethancbrown@gmail.com")
+Description: Provides functions for analytically calculating parameters (via the 
+    InteractionPoweR package) useful for simulation of moderated multiple 
+    regression based on the correlations among the predictors and outcome and 
+    the reliability of predictors.
 Imports: InteractionPoweR
 License: GPL-2
 Encoding: UTF-8
-LazyData: true
 RoxygenNote: 7.2.3
