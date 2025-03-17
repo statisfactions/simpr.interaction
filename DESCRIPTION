@@ -1,6 +1,6 @@
 Package: simpr.interaction
 Type: Package
-Title: Utility functions for simulation-based regression interaction power analysis 
+Title: Calculating Parameters for Simulation-Based Regression Interaction Power Analysis 
 Version: 0.1.0
 Authors@R: person(given = c("Ethan", "C."),
                     family = "Brown",
