@@ -7,9 +7,9 @@ Authors@R: person(given = c("Ethan", "C."),
                     role = c("aut", "cre"),
                     email = "ethancbrown@gmail.com",
                     comment = c(ORCID = "0000-0003-3419-7465"))
-Description: Provides functions for analytically calculating parameters (via the 
+Description: Provides functionality for analytically calculating parameters (via the 
     InteractionPoweR package) useful for simulation of moderated multiple 
-    regression based on the correlations among the predictors and outcome and 
+    regression, based on the correlations among the predictors and outcome and 
     the reliability of predictors.
 Imports: InteractionPoweR
 License: GPL-2
